@@ -7,7 +7,7 @@ https://forums.d2jsp.org/user.php?i=1208377
   * Dclone hunting farm
   * You need to quickly spawn multiple clients in specific regions
   * You want to eliminate clicking through slow and lousy Bnet launcher
-  * Enough people on Internet clicked on something and got robbed, this solution is using only a powershell script which is less than 100 lines long and it's 100% clear what is it going compared to compiled .exe D2R managers + one binary from the official Microsoft site
+  * Enough people on Internet clicked on something and got robbed, this solution is using only a powershell script which is less than 100 lines long and it's 100% clear what is it going compared to compiled .exe D2R managers, the only binary used you download from the official Microsoft site
   * Many D2R managers implement complexities which then cause problems, this is simple, fast and straightforward solution
 
 # 2 options:
