@@ -2,8 +2,8 @@
 https://github.com/Chobotz/D2R-multiclient-tools  
 https://forums.d2jsp.org/user.php?i=1208377  
 
-# Use case:
-  * You play D2R with on multiple accounts at once, one PC  
+# What is it good for?
+  * You play D2R on multiple accounts at once, one PC  
   * Dclone hunting farm
   * You need to quickly spawn multiple clients in specific regions
   * You want to eliminate clicking through slow and lousy Bnet launcher
