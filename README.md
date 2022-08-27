@@ -46,3 +46,5 @@ https://forums.d2jsp.org/user.php?i=1208377
 
 You can contact me on JSP - Chobot / https://forums.d2jsp.org/user.php?i=1208377 and send me a big fat FG tip.
 
+# Additional suggested mods:
+Introskip - https://www.nexusmods.com/diablo2resurrected/mods/194
