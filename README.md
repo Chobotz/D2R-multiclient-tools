@@ -49,3 +49,4 @@ You can contact me on JSP - Chobot / https://forums.d2jsp.org/user.php?i=1208377
 
 # Additional suggested mods:
 Introskip - https://www.nexusmods.com/diablo2resurrected/mods/194
+Blockhd - https://www.nexusmods.com/diablo2resurrected/mods/238
