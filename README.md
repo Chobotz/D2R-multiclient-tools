@@ -10,9 +10,10 @@ https://forums.d2jsp.org/user.php?i=1208377
   * Enough people on Internet clicked on something and got robbed, this solution is using only a powershell script which is less than 100 lines long and it's 100% clear what is it doing compared to compiled .exe D2R managers, the only binary used you download from the official Microsoft site
   * Many D2R managers implement complexities which then cause problems, this is simple, fast and straightforward solution
 
-# 2 options:
+# 3 options:
 1. Singleclient launcher - you have control over each single client (client crashes, you play with only 3 accounts out of 8, across different regions etc)
-2. Multiclient launcher - you put accounts credentials into accounts.txt and the launcher will spawn a client for each of them in one specified region
+2. Multiclient launcher - you put accounts credentials into accounts.txt and the multiclient launcher will spawn a client for each of them in one specified region
+3. You combine both approaches together, having a desktop singleclient shortcut for each account (1.) for normal play and using the multiclient desktop shortcut (2.) to quickly spawn all clients to do dclone farm etc
 
 # Important: Direct client launch works only when Bnet authenticator (MFA) is not enabled.
 
