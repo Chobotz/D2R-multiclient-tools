@@ -50,3 +50,8 @@ You can contact me on JSP - Chobot / https://forums.d2jsp.org/user.php?i=1208377
 # Additional suggested mods:
 Introskip - https://www.nexusmods.com/diablo2resurrected/mods/194  
 Blockhd (significant memory per client reduction) - https://www.nexusmods.com/diablo2resurrected/mods/238  
+
+  * If you wish the run any mod with the launcher, you can replace this line:  
+    & "$PSScriptRoot\D2R.exe" -username $bnet_email -password $bnet_password -address $region'.actual.battle.net'  
+    ->  
+    & "$PSScriptRoot\D2R.exe" -username $bnet_email -password $bnet_password -address $region'.actual.battle.net' -mod introskip  
