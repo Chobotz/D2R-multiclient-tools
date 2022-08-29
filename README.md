@@ -48,7 +48,7 @@ https://forums.d2jsp.org/user.php?i=1208377
 You can contact me on JSP - Chobot / https://forums.d2jsp.org/user.php?i=1208377 and send me a big fat FG tip.
 
 # Additional suggested mods:
-Introskip (we have seen it more than once and that's enough) - https://www.nexusmods.com/diablo2resurrected/mods/194  
+Introskip (we have seen it already) - https://www.nexusmods.com/diablo2resurrected/mods/194  
 Blockhd (significant memory per client reduction) - https://www.nexusmods.com/diablo2resurrected/mods/238  
 
   * If you wish the to any mod with the launcher, you can replace this line:  
