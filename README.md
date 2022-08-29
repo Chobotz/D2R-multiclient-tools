@@ -54,4 +54,4 @@ Blockhd (significant memory per client reduction) - https://www.nexusmods.com/di
   * If you wish the run any mod with the launcher, you can replace this line:  
     & "$PSScriptRoot\D2R.exe" -username $bnet_email -password $bnet_password -address $region'.actual.battle.net'  
     ->  
-    & "$PSScriptRoot\D2R.exe" -username $bnet_email -password $bnet_password -address $region'.actual.battle.net' -mod introskip  
+    & "$PSScriptRoot\D2R.exe" -username $bnet_email -password $bnet_password -address $region'.actual.battle.net' **-mod introskip**  
