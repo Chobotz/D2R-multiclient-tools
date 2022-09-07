@@ -57,3 +57,6 @@ Blockhd (significant memory per client reduction) - https://www.nexusmods.com/di
     & "$PSScriptRoot\D2R.exe" -username $bnet_email -password $bnet_password -address $region'.actual.battle.net' **-mod introskip**  
 
 # You are respecting EULA, usage of 3rd party tools is at your own risk
+
+# Common issues: 
+  * Direct client launch gets stuck on battle net login -> Game client is outdated - update your client via Battle net launcher. Or you have bnet authenticator enabled.
