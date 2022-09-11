@@ -7,14 +7,14 @@ $proc_ids = (Get-Process -Name d2r).Id | Sort-Object Id
 Write-Host $proc_ids
 
 # start position x,y ===========
-$x = 2560
+$x = 20
 $y = -20
 #===============================
 
 $cnt = 0
 
 foreach ($id in $proc_ids){
-#creates one column of windows, after 7 instances it will start from top somewhere else at new x,y
+#creates one column of windows, after 7 instances it will start from top somewhere else
 if ($cnt -eq 7){$x = 1200;$y=-20;}
 Set-Window -ProcessId $id -X $x -Y $y -Width 860 -Height 540
 Write-Host "Setting PID" $id "to position x: " $x " y: " $y
