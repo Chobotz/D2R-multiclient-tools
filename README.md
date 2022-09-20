@@ -1,4 +1,4 @@
-# D2R single and multi client launcher by Chobot  
+# D2R single and multi client launcher  
 https://github.com/Chobotz/D2R-multiclient-tools  
 https://forums.d2jsp.org/user.php?i=1208377  
 
