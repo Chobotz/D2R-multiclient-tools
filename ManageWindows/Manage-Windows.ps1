@@ -15,7 +15,7 @@ $cnt = 0
 
 foreach ($id in $proc_ids){
 #creates one column of windows, after 7 instances it will start from top somewhere else
-if ($cnt -eq 7){$x = 1200;$y=-20;}
+if ($cnt -eq 7){$x = 1200;$y=5;}
 # you may need to adjust the width and height to your scaling as this can modify the window size more than the game itself would normally allow you / make menu visible etc
 Set-Window -ProcessId $id -X $x -Y $y -Width 1280 -Height 720
 Write-Host "Setting PID" $id "to position x: " $x " y: " $y
