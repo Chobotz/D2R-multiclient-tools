@@ -17,7 +17,7 @@ https://forums.d2jsp.org/user.php?i=1208377
 
 # Important: Direct client launch works only when Bnet authenticator (MFA) is not enabled.
 
-# Singleclient setup (Singleclient folder)
+# Singleclient launcher setup (Singleclient folder)
 1. Copy D2R_launcher_1.ps1 into your D2R game folder
 2. Open D2R_launcher_1.ps1 in text editor and modify the initial section bnet email, pswd, default region
 3. Download handle64.exe and place it in your D2R game folder too. Official Microsoft site: https://docs.microsoft.com/en-us/sysinternals/downloads/handle
@@ -31,7 +31,7 @@ https://forums.d2jsp.org/user.php?i=1208377
 6. Start a client of your choice by using the desktop shortcut you created and follow the instructions, select launch mode and region, then you can click on shortcut for other client etc
 
 
-# Multiclient setup (Multiclient folder)
+# Multiclient launcher setup (Multiclient folder)
 1. Copy D2R_launcher_all.ps1 and accounts.txt into your D2R game folder
 2. Open accounts.txt in text editor and put accounts you want to start in the following format, one account per line, password cannot contain ";" character: bnet_account@gmail.com;password123
 3. Download handle64.exe and place it in your D2R game folder too. Official Microsoft site: https://docs.microsoft.com/en-us/sysinternals/downloads/handle
