@@ -2,6 +2,8 @@
 https://github.com/Chobotz/D2R-multiclient-tools  
 https://forums.d2jsp.org/user.php?i=1208377  
 
+![Single launcher and Multie launcher](https://i.imgur.com/dzgQOcN.png)
+
 # What is it good for?
   * You play D2R on multiple accounts at once, one PC  
   * Dclone hunting farm
@@ -15,7 +17,9 @@ https://forums.d2jsp.org/user.php?i=1208377
 2. Multiclient launcher - you have one desktop shortcut to spawn all clients, you put accounts credentials into accounts.txt and the multiclient launcher will spawn a client for each of them in one specified region
 3. You combine both approaches together, having a desktop singleclient shortcut for each account (1.) for normal play and using the multiclient desktop shortcut (2.) to quickly spawn all clients to do dclone farm etc
 
-# Important: Direct client launch works only when Bnet authenticator (MFA) is not enabled.
+# Important: 
+  * Direct client launch works only when Bnet authenticator (MFA) is not enabled.
+  * 
 
 # Singleclient launcher setup (Singleclient folder)
 1. Copy D2R_launcher_1.ps1 into your D2R game folder
