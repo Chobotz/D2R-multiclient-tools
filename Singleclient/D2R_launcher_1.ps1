@@ -71,7 +71,7 @@ $new_saved_accounts = "SavedAccountNames`": `"" +$bnet_email +"`","
 
 
 Do {$launch_mode = Read-Host 'D2R - Select launch mode 1 or 2 (1 - Direct client, 2 - Bnet Launcher, Empty - Direct client)'}
-while ($launch_mode -ne '1' -and $region -ne '2' -and $launch_mode -ne '')
+while ($launch_mode -ne '1' -and $launch_mode -ne '2' -and $launch_mode -ne '')
 
 
 $region = 'none yet'
