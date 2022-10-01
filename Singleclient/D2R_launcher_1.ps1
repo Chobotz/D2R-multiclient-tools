@@ -78,7 +78,7 @@ $region = 'none yet'
 
 if($launch_mode -eq "1" -or $launch_mode -eq "")
 {
-    Do { $region = Read-Host 'Select region eu/us/kr (no input -> default region)';Write-Host "Selected region: $($region)";}
+    Do { $region = Read-Host 'Specify region eu/us/kr (no input -> default region)';Write-Host "Selected region: $($region)";}
     while ($region -ne 'eu' -and $region -ne 'us' -and $region -ne 'kr' -and $region -ne '')	
     if($region -eq '')
     {
