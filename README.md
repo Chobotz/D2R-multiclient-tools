@@ -18,8 +18,9 @@ https://forums.d2jsp.org/user.php?i=1208377
 3. You combine both approaches together, having a desktop singleclient shortcut for each account (1.) for normal play and using the multiclient desktop shortcut (2.) to quickly spawn all clients to do dclone farm etc
 
 # Important: 
-<span style="color:red">*Direct client launch works only when Bnet authenticator (MFA) is disabled.*</span>
-
+```diff
+- # *Direct client launch works only when Bnet authenticator (MFA) is disabled.*
+```
 
 # Singleclient launcher setup (Singleclient folder)
 1. Copy D2R_launcher_1.ps1 into your D2R game folder
