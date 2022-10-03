@@ -20,6 +20,7 @@ https://forums.d2jsp.org/user.php?i=1208377
 # Important: 
 ```diff
 - Direct client launch works only when Bnet authenticator (MFA) is disabled.
+- https://account.battle.net/security#authenticator
 ```
 
 # Singleclient launcher setup (Singleclient folder)
