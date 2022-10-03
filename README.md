@@ -65,7 +65,7 @@ Blockhd (significant memory per client reduction) - https://www.nexusmods.com/di
 # You are respecting EULA, usage of 3rd party tools is at your own risk
 
 # Common/known issues: 
-  * If you generate too many logins or you fail to log in, you may get a temporary account lockout, make sure your email and password is correct, and you can log in that particular account via normal way (bnet launcher) - there could be captcha to be solved etc, you can wait 1 hour and try again to start clients directly  
+  * If you generate too many logins or you fail to log in, you may get a temporary account lockout, make sure your email and password is correct, and that you can log in that particular account via normal way (bnet launcher) - there could be captcha to be solved etc, you can wait 1 hour and try again to start clients directly  
   * Direct client launch gets stuck on battle net login -> Game client is outdated - update your client via Battle net launcher. Or you have bnet authenticator enabled.
   * Launchers run as administrator (which is required to close process handles), therefore the D2R.exe processes are also runing with elevated privileges which is not needed
   * ManageWindows can be embedded into Multilauncher - currently it's separated for simplicity, also it requires the user to adjust the position and window size etc
