@@ -29,8 +29,8 @@ https://forums.d2jsp.org/user.php?i=1208377
 3. Download handle64.exe and place it in your D2R game folder too. Official Microsoft site: https://docs.microsoft.com/en-us/sysinternals/downloads/handle
 4. Copy D2R_launcher_1.lnk to your desktop, right click - Properties and change "Target" and "Start in" to your D2R folder (what you need to change is in bold)  
 
-  * Target: C:\Windows\System32\cmd.exe /c C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File "```diff**F:\Diablo II Resurrected\D2R_launcher_1.ps1**```"
-  * Start in: "```diff**F:\Diablo II Resurrected**```"
+  * Target: C:\Windows\System32\cmd.exe /c C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File "**F:\Diablo II Resurrected\D2R_launcher_1.ps1**"
+  * Start in: "**F:\Diablo II Resurrected**"
   * You can change the shortcut icon
 5. Repeat the same for other clients, just change the name of the powershell script and your shortcut
   * D2R_launcher_1.ps1 -> D2R_launcher_2.ps1,D2R_launcher_3.ps1 etc
