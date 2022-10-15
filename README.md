@@ -27,7 +27,8 @@ https://forums.d2jsp.org/user.php?i=1208377
 1. Copy D2R_launcher_1.ps1 into your D2R game folder
 2. Open D2R_launcher_1.ps1 in text editor and modify the initial section bnet email, pswd, default region
 3. Download handle64.exe and place it in your D2R game folder too. Official Microsoft site: https://docs.microsoft.com/en-us/sysinternals/downloads/handle
-4. Copy D2R_launcher_1.lnk to your desktop, right click - Properties and change "Target" and "Start in" to your D2R folder
+4. Copy D2R_launcher_1.lnk to your desktop, right click - Properties and change "Target" and "Start in" to your D2R folder (what you need to change is in bold)  
+
   * Target: C:\Windows\System32\cmd.exe /c C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File "**F:\Diablo II Resurrected\D2R_launcher_1.ps1**"
   * Start in: "**F:\Diablo II Resurrected**"
   * You can change the shortcut icon
@@ -41,7 +42,7 @@ https://forums.d2jsp.org/user.php?i=1208377
 1. Copy D2R_launcher_all.ps1 and accounts.txt into your D2R game folder
 2. Open accounts.txt in text editor and put accounts you want to start in the following format, one account per line, password cannot contain ";" character: bnet_account@gmail.com;password123
 3. Download handle64.exe and place it in your D2R game folder too. Official Microsoft site: https://docs.microsoft.com/en-us/sysinternals/downloads/handle
-4. Copy D2R_launcher_all.lnk to your desktop, right click - Properties and change "Target" and "Start in" to your D2R folder
+4. Copy D2R_launcher_all.lnk to your desktop, right click - Properties and change "Target" and "Start in" to your D2R folder (what you need to change is in bold)  
 
   * Target: C:\Windows\System32\cmd.exe /c C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File "**F:\Diablo II Resurrected\D2R_launcher_all.ps1**"  
   * Start in: "**F:\Diablo II Resurrected**"  
