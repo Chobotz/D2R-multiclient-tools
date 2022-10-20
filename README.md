@@ -1,6 +1,5 @@
 # D2R single and multi client launcher  
 https://github.com/Chobotz/D2R-multiclient-tools  
-https://forums.d2jsp.org/user.php?i=1208377  
 
 ![Single launcher and Multie launcher](https://i.imgur.com/dzgQOcN.png)
 
@@ -49,10 +48,8 @@ https://forums.d2jsp.org/user.php?i=1208377
   * You can change the shortcut icon  
 
 5. Start multiple clients by using D2R_launcher_all.lnk on your desktop, select region
-6. Select first client, click intro and let the Bnet connection finish till you get into character selection screen, then repeat with second etc, if you click skip intro in multiple clients at once, it will inherit session and cause issues, two clients will try to use the same account, kick each other out etc
+6. Select first client, click intro and let the Bnet connection finish till you get into character selection screen, then repeat with second etc, if you click skip intro in multiple clients at once, it will inherit session and cause issues, two clients will try to use the same account, kick each other out etc  
 
-
-You can contact me on JSP - Chobot / https://forums.d2jsp.org/user.php?i=1208377 and send me a big fat FG tip.
 
 # Additional suggested mods:
 Introskip (we have seen it already) - https://www.nexusmods.com/diablo2resurrected/mods/194  

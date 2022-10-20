@@ -1,4 +1,4 @@
-#== D2R multiclient transparent launcher by Chobot - https://github.com/Chobotz/D2R-multiclient-tools / https://forums.d2jsp.org/user.php?i=1208377 =====
+#== D2R multiclient transparent launcher by Chobot - https://github.com/Chobotz/D2R-multiclient-tools =====
 #default_region values can be eu/us/kr (Europe / North America / Asia) - default is applied when you do not provide any input and just press enter during region selection
 $default_region = 'eu'
 #======================================== Send me lot of FGs ============================================================================================

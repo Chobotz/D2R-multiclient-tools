@@ -1,4 +1,4 @@
-#== D2R singleclient transparent launcher by Chobot - https://github.com/Chobotz/D2R-multiclient-tools / https://forums.d2jsp.org/user.php?i=1208377 ==================
+#== D2R singleclient transparent launcher by Chobot - https://github.com/Chobotz/D2R-multiclient-tools ==================
 $bnet_email = 'changeme@gmail.com'
 $bnet_password = 'mypassword123'
 #default_region values can be eu/us/kr - default is applied when you do not provide any input and just press enter during region selection
