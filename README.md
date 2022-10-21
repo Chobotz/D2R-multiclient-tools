@@ -13,7 +13,7 @@ https://github.com/Chobotz/D2R-multiclient-tools
 
 # If you like it, drop some
 
-Bitcoin: 15scfEwuHTUMoGWNSPp4DHtxPynYXu7xZ2
+Bitcoin: 15scfEwuHTUMoGWNSPp4DHtxPynYXu7xZ2  
 Eth: 0xc5cFA9f55bA3C97ea55CaD2C9B93Cb1653022E50
 
 # 3 options:
