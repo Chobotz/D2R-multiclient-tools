@@ -11,6 +11,10 @@ https://github.com/Chobotz/D2R-multiclient-tools
   * Enough people on Internet clicked on something and got robbed, this solution is using only a powershell script which is less than 100 lines long and it's 100% clear what is it doing compared to compiled .exe D2R managers, the only binary used you download from the official Microsoft site
   * Many D2R managers implement complexities which then cause problems, this is simple, fast and straightforward solution
 
+# If these tools improved your multi client play experience, you can drop some here:  
+
+bitcoin:15scfEwuHTUMoGWNSPp4DHtxPynYXu7xZ2
+
 # 3 options:
 1. Singleclient launcher - you have a desktop shortcut and control over each single client (client crashes, you play with only 3 accounts out of 8, across different regions etc)
 2. Multiclient launcher - you have one desktop shortcut to spawn all clients, you put accounts credentials into accounts.txt and the multiclient launcher will spawn a client for each of them in one specified region
