@@ -14,7 +14,7 @@ https://github.com/Chobotz/D2R-multiclient-tools
 # If you like it, drop some
 
 Bitcoin: 15scfEwuHTUMoGWNSPp4DHtxPynYXu7xZ2  
-Eth: 0xc5cFA9f55bA3C97ea55CaD2C9B93Cb1653022E50
+Eth: 0xc5cFA9f55bA3C97ea55CaD2C9B93Cb1653022E50  
 
 # 3 options:
 1. Singleclient launcher - you have a desktop shortcut and control over each single client (client crashes, you play with only 3 accounts out of 8, across different regions etc)
