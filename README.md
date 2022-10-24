@@ -1,6 +1,9 @@
 # D2R single and multi client launcher  
 https://github.com/Chobotz/D2R-multiclient-tools  
 
+# Contact - Discord  
+chobot#4192  
+
 ![Single launcher and Multie launcher](https://i.imgur.com/dzgQOcN.png)
 
 # What is it good for?
