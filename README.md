@@ -6,6 +6,7 @@ https://github.com/Chobotz/D2R-multiclient-tools
 # What is it good for?
   * You play D2R on multiple accounts at once, one PC  
   * Dclone hunting farm
+  * Pro trading  
   * You need to quickly spawn multiple clients in specific regions
   * You want to eliminate clicking through slow and lousy Bnet launcher
   * Enough people on Internet clicked on something and got robbed, this solution is using only a powershell script which is less than 100 lines long and it's 100% clear what is it doing compared to compiled .exe D2R managers, the only binary used you download from the official Microsoft site
