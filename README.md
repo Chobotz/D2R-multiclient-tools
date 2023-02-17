@@ -1,6 +1,6 @@
 # D2R single and multi client launcher  
 https://github.com/Chobotz/D2R-multiclient-tools  
-for 2.5.2  
+for 2.6
 
 # Contact - Discord  
 chobot#4192  
