@@ -76,6 +76,5 @@ Blockhd (significant memory per client reduction) - https://www.nexusmods.com/di
   * If you run into repeating captcha verification loops, purge content of C:\Users\User\AppData\Local\Battle.net\Cache\  
   * If you generate too many logins or you fail to log in, you may get a temporary account lockout, make sure your email and password is correct, and that you can log in that particular account via normal way (bnet launcher) - there could be captcha to be solved etc, you can wait 1 hour and try again to start clients directly  
   * Direct client launch gets stuck on battle net login -> Game client is outdated - update your client via Battle net launcher. Or you have bnet authenticator enabled.
-  * Launchers run as administrator (which is required to close process handles), therefore the D2R.exe processes are also runing with elevated privileges which is not needed  
-  * ManageWindows can be embedded into Multilauncher - currently it's separated for simplicity, also it requires the user to adjust the position and window size etc  
-  * If you get a message "handle cannot be closed", get the latest Handle tool from Microsoft site mentioned above  
+  * Launchers run as administrator (which is required to close process handles), therefore the D2R.exe processes are also runing with elevated privileges which is not needed
+  * ManageWindows can be embedded into Multilauncher - currently it's separated for simplicity, also it requires the user to adjust the position and window size etc
