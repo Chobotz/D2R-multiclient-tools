@@ -75,8 +75,7 @@ Tinymod - reduce vram/ram system consumption, it's broken but works - https://gi
 
 Join current game in all windows, one click:  
 
-https://github.com/user-attachments/assets/9f0301c1-7094-48da-a5bf-044cf23cfc6f
-
+https://github.com/user-attachments/assets/6385f632-1029-4feb-931a-738ae8986706
 
 
 # You are respecting Blizz EULA, usage of 3rd party tools is at your own risk  
