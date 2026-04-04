@@ -67,7 +67,7 @@ Tinymod - reduce vram/ram system consumption, it's broken but works - https://gi
   * Nullified game files to reduce ram/vram per client consumption
   * Works with ROTW 3.1.92198 version  
   * Extract reduce.zip into D2R install folder X:\Diablo 2 Resurrected\mods\Reduce  
-  * Adjust D2R.exe cmd arguments in other tools  
+  * Adjust D2R.exe cmd arguments in other tools (D2R.exe -mod reduce)  
 
 # D2R Game Lobby controller (LobbyController folder in repo)  
   * What it does? After you start all clients and enter game lobby (join tab). Now this tool starts to operate. Join game (goes window by window, in a predefined windows list), populate game name and password, joins game. Second functionality is to exit game, increase game name game150 -> game151 and join. Last button, exits game in all pre-defined windows.  
