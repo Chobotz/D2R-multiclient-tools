@@ -1,4 +1,4 @@
-# D2R single/multi client launcher, lobby controller    
+# D2R single/multi client launcher, lobby controller, reduce mod      
 https://github.com/Chobotz/D2R-multiclient-tools  
 for 3.1.92198
 
