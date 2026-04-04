@@ -12,11 +12,12 @@ chobot#4192
 ![D2R Lobby Controller](https://i.imgur.com/zDx7dYF.png).  
 
 # What is it good for?
-  * You play D2R on multiple accounts at once, one PC  
-  * Dclone hunting farm, PRO trading
-  * You want to eliminate clicking through slow and lousy Bnet launcher
-  * Enough people on Internet clicked on something and got robbed, this solution is using only a powershell script which is around 100-200 lines long, an average Joe should be able to verify what they run on their PC, it's 100% clear what is it doing compared to compiled .exe D2R managers, the only binary you use is downloaded from the official Microsoft site
-  * Many D2R client managers implement complexities which then cause problems, this is simple, fast and straightforward solution
+  * Multiple D2R clients - 1 PC   
+  * Dclone hunting farm
+  * PRO trading  
+  * Eliminate starting D2R via slow lousy Bnet launcher  
+  * All tools are less than 200 lines of script transparent code, you can see what it does  
+  * Functionality is split to smaller tools which focus on that specific task, everyone can have different needs  
 
 # 2 options:
 1. Singleclient launcher - you have a desktop shortcut and control over each single client (client crashes, you play with only 3 accounts out of 8, across different regions etc)
