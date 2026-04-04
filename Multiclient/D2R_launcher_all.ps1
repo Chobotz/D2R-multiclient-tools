@@ -22,7 +22,7 @@ $accounts_file = Join-Path $PSScriptRoot "accounts.txt"
 $base_settings_dir = Join-Path $env:USERPROFILE "Saved Games\Diablo II Resurrected"
 $game_config = Join-Path $base_settings_dir "Settings.json"
 $game_config_low = Join-Path $base_settings_dir "Settings_low.json"
-$game_config_tiny = Join-Path $base_settings_dir "mods\tiny\Settings.json"
+#$game_config_tiny = Join-Path $base_settings_dir "mods\tiny\Settings.json"
 
 #allows to specify mod launch for certain accounts, check the section 6 - Launch loop - advanced
 $mods_used = $false
@@ -98,10 +98,11 @@ foreach ($line in $accounts) {
 	#If you have no mods, then in # 2. CONFIGURATION & PATHS, change: $mods_used = $false (default), this is for advanced farmers
 	#introskip https://www.nexusmods.com/diablo2resurrected/mods/194
 	#tinymod https://github.com/D2R-Gimli/TinyMod - broken but still works
-    $mod = if ($user -match "account1|account3") { "introskip" } else { "tiny" }
+	#reduce - mod with reduced game files to reduce memory and vram consumption per client - see Reduce folder in repository
+    $mod = if ($user -match "account1|account3") { "introskip" } else { "reduce" }
     
 	if ($mods_used) {
-    Start-Process $d2r_path -ArgumentList "$args -mod $mod -txt"
+    Start-Process $d2r_path -ArgumentList "$args -mod $mod"
 	} else {
 	 Start-Process $d2r_path -ArgumentList "$args"
 	}
