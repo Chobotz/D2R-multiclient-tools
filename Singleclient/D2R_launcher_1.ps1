@@ -78,7 +78,8 @@ if (Test-Path $lowSettingsJson) {
 }
 
 #--- 5. Launch Logic ---
-$launch_mode = Read-Host "Select launch mode [1] Direct (Default), [2] Bnet Launcher"
+#$launch_mode = Read-Host "Select launch mode [1] Direct (Default), [2] Bnet Launcher"
+$launch_mode = 1
 if ($launch_mode -ne "2") {
     $region = Read-Host "Specify region [eu/us/kr] (Empty for $default_region)"
     if ($region -notmatch 'eu|us|kr') { $region = $default_region }
