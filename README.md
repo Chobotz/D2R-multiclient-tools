@@ -41,7 +41,7 @@ chobot#4192
 5. Repeat the same for other clients, just change the name of the powershell script and your shortcut
   * D2R_launcher_1.ps1 -> D2R_launcher_2.ps1,D2R_launcher_3.ps1 etc
   * D2R_launcher_1.lnk -> D2R_launcher_2.lnk,D2R_launcher_3.lnk etc
-6. Start a client of your choice by using the desktop shortcut you created and follow the instructions, select launch mode and region, then you can click on shortcut for other client etc
+6. Start a client of your choice by using desktop shortcuts, select region  
 
 
 # Multiclient launcher setup (Multiclient folder)
