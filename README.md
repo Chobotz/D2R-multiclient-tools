@@ -23,7 +23,8 @@ chobot#4192
 1. Singleclient launcher - you have a desktop shortcut and control over each single client (client crashes, you play with only 3 accounts out of 8, across different regions etc)
 2. Multiclient launcher - you have one desktop shortcut/script to spawn all clients, you put accounts credentials into accounts.txt and the multiclient launcher will spawn a client for each of them in one specified region
 
-# Important: 
+# Important:  
+* D2R client command line start does not support MFA  
 ```diff
 - Direct client launch works only when Bnet authenticator (MFA) is disabled.
 - https://account.battle.net/security#authenticator
