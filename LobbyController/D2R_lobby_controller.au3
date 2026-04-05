@@ -102,7 +102,7 @@ Func ExitAndJoinNext()
           
             Send("{TAB}")
             Sleep(Random(203, 309, 1))
-            Send("^a{DELETE}")
+            Send("^a")
             Sleep(Random(203, 309, 1))
             Send($valP)
             Sleep(Random(203, 309, 1))
